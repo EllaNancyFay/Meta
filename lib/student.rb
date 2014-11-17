@@ -15,8 +15,5 @@ class Student
     return false
   end
 
-  def create_method(name, block)
-  end
-
 end
   
